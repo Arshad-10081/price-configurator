@@ -63,3 +63,18 @@ Sample data includes:
 3. View real-time price updates
 4. See detailed price breakdown
 
+
+## How to Run the Project
+To run the project locally:
+
+Start the Laravel development server:
+
+bash
+Copy
+Edit
+php artisan serve  
+Open your browser and go to:
+http://localhost:8000
+
+
+
