@@ -69,10 +69,8 @@ To run the project locally:
 
 Start the Laravel development server:
 
-bash
-Copy
-Edit
-php artisan serve  
+Just type php artisan serve on your terminal
+  
 Open your browser and go to:
 http://localhost:8000
 
