@@ -33,7 +33,8 @@ Execute the database migration command with seeding
 1. Clone repository
 2. Run `composer install or composer update`
 3. Setup database in `.env`
-4. Run `php artisan migrate:fresh --seed`
+4. Generate application key: php artisan key:generate
+5. Run `php artisan migrate:fresh --seed`
 
 ## Components
 
